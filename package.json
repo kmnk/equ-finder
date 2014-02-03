@@ -1,6 +1,9 @@
 {
   "name": "equ-finder",
   "version": "0.0.1",
+  "description": "node finder implementation using *Equ*",
+  "keywords": ["parser", "esprima"],
+  "author": "Kmnk Nmk <kmnknmk@gmail.com>",
   "main": "equ-finder.js",
   "dependencies": {
     "underscore": "~1.5.2",
@@ -10,6 +13,5 @@
     "grunt": "~0.4.1",
     "grunt-contrib-watch": "~0.5.3",
     "grunt-contrib-coffee": "~0.7.0"
-  },
-  "private" : false
+  }
 }
